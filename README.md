@@ -194,4 +194,3 @@ To verify the backend is running correctly, open your browser or Postman and nav
 
 *TrafficUndo – Smart Traffic Monitoring & Emergency Route Assistance Platform for Kerala.*
 
-```
