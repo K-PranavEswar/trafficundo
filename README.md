@@ -88,6 +88,7 @@ Provides insights such as:
 * Accident statistics
 * Road closure reports
 * Community activity metrics
+<img width="1902" height="902" alt="image" src="https://github.com/user-attachments/assets/857b88a6-9fd6-429b-8b28-ef03a5cf2062" />
 
 ---
 
